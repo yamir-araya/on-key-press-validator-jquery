@@ -8,8 +8,8 @@ To use, just:
 - call the function onKeyPressValidator on the jQuery $(document).ready();
 
 
+Class and Validators availables
 
-Class and Validators availables.
 .lp_num
 //ALLOW NUMBERS
 
